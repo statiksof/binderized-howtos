@@ -7,3 +7,4 @@ dependencies:
   - pyngl==1.6.1
   - pynio==1.5.5
   - nbserverproxy
+  - xarray
