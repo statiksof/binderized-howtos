@@ -8,3 +8,4 @@ dependencies:
   - pynio==1.5.5
   - nbserverproxy
   - xarray
+  - netcdf4
