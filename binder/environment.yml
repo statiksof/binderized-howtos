@@ -10,6 +10,7 @@ dependencies:
   - xarray
   - netcdf4
   - pip
+  - cfgrib
   - pip:
     - graphviz
     - dask_labextension
