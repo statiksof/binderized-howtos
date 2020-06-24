@@ -1,5 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/KMFleischer/PyEarthScience.git
+mkdir Tutorials
+git clone https://github.com/KMFleischer/PyEarthScience.git Tutorials
 
 #EOF
