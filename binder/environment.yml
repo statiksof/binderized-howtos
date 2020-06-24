@@ -9,6 +9,7 @@ dependencies:
   - nbserverproxy
   - xarray
   - netcdf4
+  - pip
   - pip:
     - graphviz
     - dask_labextension
