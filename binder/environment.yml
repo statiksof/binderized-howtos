@@ -1,0 +1,8 @@
+name: geo-tutorials
+channels:
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken
+dependencies:
+  - pyngl==1.6.1
+  - pynio==1.5.5
