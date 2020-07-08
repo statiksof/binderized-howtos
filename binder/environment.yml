@@ -11,6 +11,7 @@ dependencies:
   - netcdf4
   - pip
   - cfgrib
+  - dask-labextension=1.1.0
   # intake
   - intake
   - intake-xarray
@@ -19,4 +20,3 @@ dependencies:
   - intake-stac
   - pip:
     - graphviz
-    - dask_labextension
