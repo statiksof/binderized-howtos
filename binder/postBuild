@@ -2,5 +2,6 @@
 
 mkdir Tutorials
 git clone https://github.com/KMFleischer/PyEarthScience.git Tutorials/PyEarthScience
+git clone https://github.com/mmckerns/tuthpc.git
 
 #EOF
