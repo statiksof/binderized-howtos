@@ -2,6 +2,7 @@ name: geo-tutorials
 channels:
   - conda-forge
   - defaults
+  - ncas
   - conda-forge/label/broken
 dependencies:
   - pyngl==1.6.1
@@ -17,6 +18,9 @@ dependencies:
   - intake-esm
   - fsspec
   - intake-stac
+  - cf-python
+  - cf-plot
+  - udunits2
   - pip:
     - graphviz
     - numpy >= 1.0
