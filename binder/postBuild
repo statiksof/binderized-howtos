@@ -2,7 +2,7 @@
 
 mkdir Tutorials
 git clone https://github.com/KMFleischer/PyEarthScience.git Tutorials/PyEarthScience
-git clone https://github.com/mmckerns/tuthpc.git
-git clone https://github.com/NCAS-CMS/cf-training.git
+git clone https://github.com/mmckerns/tuthpc.git Totorials/tuthpc
+git clone https://github.com/NCAS-CMS/cf-training.git Tutorials/cf-training
 
 #EOF
