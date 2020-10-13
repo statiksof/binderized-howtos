@@ -5,8 +5,10 @@ channels:
   - ncas
   - conda-forge/label/broken
 dependencies:
+  - python==3.8
   - pyngl==1.6.1
   - pynio==1.5.5
+  - python-cdo
   - nbserverproxy
   - xarray
   - netcdf4
